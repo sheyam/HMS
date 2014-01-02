@@ -1,0 +1,26 @@
+#content
+{
+
+	height:600px;
+	width:1000px;
+    padding-top: 60px;
+    padding-left: 80px;
+    margin-top: 90px;
+    margin-left: 280px;
+
+}
+.body
+{
+    background-image: "3.jpg";
+	background-repeat: no-repeat;
+}
+.btn .btn-primary .btn-lg
+{
+	width: 50px;
+	font-size: 20px;
+
+}
+.h3
+{
+	text-decoration: #111111;
+}
